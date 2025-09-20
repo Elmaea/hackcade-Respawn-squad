@@ -47,18 +47,13 @@ Why cool: Adds humor + surprise with minimal coding (just random state changes)
 ### Screenshots (Add at least 3)
 <img width="1230" height="891" alt="SS 1" src="https://github.com/user-attachments/assets/274d7eb5-528c-4fd0-9c20-c3afd5446969" />
 
-![Screenshot1](Add screenshot 1 link)  
-*Add caption explaining what this shows*
+(https://drive.google.com/file/d/1YSfCITZd3SmSzn5koFEc7K8mycw-7HwB/view?usp=sharing)
 
-![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot    3 link)  
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/17xAdoIxy8FORHjmJDHtoU9ODHGzaeVej/view?usp=sharing 
 
 ### Game Demo
 
 #### Gameplay Video
-[Add link to gameplay video]  
+https://drive.google.com/file/d/1KLH26Q6MmwRP6gHmfOtXgCnWRWM4bgyD/view?usp=sharing 
 
 
